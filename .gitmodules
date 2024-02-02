@@ -1,0 +1,8 @@
+[submodule "examples/submodules/mech"]
+	path = examples/submodules/mech
+	url = https://github.com/valory-xyz/mech.git
+	branch = main
+[submodule "examples/submodules/evo_researcher"]
+	path = examples/submodules/evo_researcher
+	url = https://github.com/polywrap/evo.researcher.git
+	branch = main
