@@ -1,2 +1,3 @@
-# prediction-agent-benchmarker
-[WIP] A toolkit and CLI for benchmarking prediction agents
+# Prediction Agent Benchmarker
+
+A toolkit and CLI for benchmarking prediction agents
